@@ -7,9 +7,9 @@ This is a course project for Comp 790-063: Implementing Distributed Collaborativ
 
 To run the program: 
 
-(1) load the project using Eclipse 
+(1) import the project using Eclipse 
 
-(2) edit the path to the external .jar file, which is located in Java_IM\src\instantMessenger\oeall21.jar
+(2) edit the path to the external .jar file, which is located at Java_IM\src\instantMessenger\oeall21.jar
 
 (3) run the class AppLauncher.java 
 
