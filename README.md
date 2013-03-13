@@ -9,7 +9,7 @@ To run the program:
 
 (1) import the project using Eclipse 
 
-(2) edit the path to the external .jar file, which is located at Java_IM\src\instantMessenger\oeall21.jar
+(2) edit the path to the external .jar file, which is located at Java_IM\src\instantMessenger\oeall21.jar. Here is the description of the .jar file http://www.cs.unc.edu/~dewan/oe/.
 
 (3) run the class AppLauncher.java 
 
