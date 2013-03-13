@@ -9,10 +9,12 @@ To run the program:
 
 (1) load the project using Eclipse 
 
-(2) run the class AppLauncher.java 
+(2) edit the path to the external .jar file, which is located in Java_IM\src\instantMessenger\oeall21.jar
 
-(3) double click the items shown in the UI in order, i.e., first double click RMIRegistryStarter, then SessionServer, then RelayServer, then ClientLauncher 
+(3) run the class AppLauncher.java 
 
-(4) to create more users, double click ClientLauncher again 
+(4) double click the items shown in the UI in order, i.e., first double click RMIRegistryStarter, then SessionServer, then RelayServer, then ClientLauncher 
 
-(5) enjoy! 
+(5) to create more users, double click ClientLauncher again 
+
+(6) enjoy! 
